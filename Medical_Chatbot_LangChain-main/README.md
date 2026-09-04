@@ -109,11 +109,14 @@ Includes local setup, Docker deployment, AWS deployment, and CI/CD configuration
 
 ---
 
-## 👤 Author
+## Credits
 
-**Harsh Patel**  
-📧 code.by.hp@gmail.com  
-🔗 [GitHub](https://github.com/CodeBy-HP) • [LinkedIn](https://www.linkedin.com/in/harsh-patel-389593292/)
+This project is based on an open-source medical RAG chatbot implementation.
+The project has been configured, studied, and extended for learning and development purposes.
+
+## Author
+
+Lokendra Pratap Singh Rajawat
 
 ---
 
